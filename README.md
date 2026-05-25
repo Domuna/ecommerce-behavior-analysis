@@ -56,8 +56,8 @@
 ## 快速启动 (Quick Start)
 
 1. **克隆项目**
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Domuna/ecommerce-behavior-analysis.git
+    cd ecommerce-behavior-analysis
 
 2. **安装依赖**
     pip install -r requirements.txt
